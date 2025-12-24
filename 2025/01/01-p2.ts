@@ -25,5 +25,4 @@ for(let value of input){
         }
     }
 }
-
 console.log(answer)
