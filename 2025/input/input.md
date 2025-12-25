@@ -1,0 +1,1 @@
+Create another file with your input here with this title format -> dayInput.txt ex: 01Input.txt, 02Input.txt etc.
