@@ -8,7 +8,7 @@ const input = fs
 .split(",")
 
 let answer = 0; 
-for(let value of input){ 
+for(const value of input){ 
     const range = value.split("-");
     let first = range[0]
     let second = range[1]

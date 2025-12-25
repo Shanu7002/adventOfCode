@@ -9,7 +9,7 @@ const input = fs
 
 let dial = 50; 
 let answer = 0; 
-for(let value of input){ 
+for(const value of input){ 
     const number = Number(value.slice(1)); 
     
     dial += value[0] === "R" ? number : -number;
